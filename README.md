@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=70FF19&lines=Ol%C3%A1+%2C+seja+bem+vindo+ao+meu+GitHub)
 
-   Hello, my name is Fernanda Leandra
+  Hello World, I'm Fernanda Leandra! 🌎 
 
 - 📚 I'm in career transition, from Accounting to Programmer.
 - 🙋‍♀️ I'm 30 years old
