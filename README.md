@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=70FF19&lines=Ol%C3%A1+%2C+seja+bem+vindo+ao+meu+GitHub)
 
+   Hello, my name is Fernanda Leandra
 
-
-- 📚 Hello, my name is Fernanda Leandra, and I'm in career transition, from Accounting to Programmer.
+- 📚 I'm in career transition, from Accounting to Programmer.
 - 🙋‍♀️ I'm 30 years old
 - 🖥️ Frontend Developer
 - 👩‍💻 Web development student at Laboratoria Brasil -  [ < LAB > ](https://pages.github.com/)
@@ -13,6 +13,7 @@
 <div>
     <a href = "mailto:fernanda2pc@gmail.com"><img  aligh="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/fernanda-leandra/" target="_blank"><img  aligh="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/_fernanda.leandra/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Fernanda_Leandra"></a> 
 </div>
 
 --------------------------------------------------
