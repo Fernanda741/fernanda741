@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=70FF19&lines=Ol%C3%A1+%2C+seja+bem+vindo+ao+meu+GitHub)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=21FF0F&lines=+Wellcome+to+my+GitHub)](https://git.io/typing-svg)
 
   Hello World, I'm Fernanda Leandra! 🌎 
 
