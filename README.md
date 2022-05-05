@@ -4,9 +4,9 @@
 
 - 📚 I'm in career transition, from Accounting to Programmer.
 - 🙋‍♀️ I'm 30 years old
-- 🖥️ Front-end developer student
+- 🖥️ Front-end Developer 
 - 🤔 I am interested in learning more about Python and UI
-- 👩‍💻 Web development student at Laboratoria Brasil -  [ < LAB > ](https://www.laboratoria.la/)
+- 👩‍💻 Web development student in the 007 generation of Laboratoria Brasil -  [ < LAB > ](https://www.laboratoria.la/)
 - 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
 
 
