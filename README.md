@@ -24,7 +24,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernanda741&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fernanda741" width="495"/></p>
   
 
-###   <h3><b>🛠 Skills and Tools: </b></h3>  
+###   <h3><b>🛠 Tools Skills: </b></h3>  
 <div style="display: inline_block" align="center">
  <img align="center"  alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center"  alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
