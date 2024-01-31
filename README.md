@@ -3,11 +3,11 @@
   Hello World, I'm Fernanda Leandra! 🌎 
 
 - 📚 I'm in career transition, from Accounting to Programmer.
-- 🙋‍♀️ I'm 30 years old
+- 🙋‍♀️ I'm 32 years old
 - 🖥️ Front-end Developer 
 - 🤔 I am interested in learning more about Python and UI
 - 👩‍💻 Web development student in the 007 generation of Laboratoria Brasil -  [ < LAB > ](https://www.laboratoria.la/)
-- 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
+- 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest | JAVA
 
 
 ###  📫 How to reach me:
